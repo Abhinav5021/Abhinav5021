@@ -9,14 +9,15 @@
 ---
 
 ### 💫 About Me:
-- 🔭 **I’m currently working on** [Real-time Chat Dashboard](https://github.com/Abhinav5021)
-- 👯 **I’m looking to collaborate on** Java-based open source projects
-- 🤝 **I’m looking for help with** Mastering Spring Boot Microservices
-- 🌱 **I’m currently learning** System Architecture and UI/UX Animations
-- 💬 **Ask me about** Java, React, MySQL, or cinematic photography
-- 🎯 **Goals:** Securing a high-impact role (12-15+ LPA)
-- ✨ **Creating bugs since** 2024
-- ⚡ **Fun fact:** I love capturing sunrise and sunset views through my lens!
+🔭 I’m currently working on: Spring Boot
+
+👯 I’m looking to collaborate on: Open source web applications
+
+🤝 I’m looking for help with: Mastering advanced system architecture
+
+✨ Creating bugs since: 2024
+
+⚡ Fun fact: I love capturing sunrise and sunset views through my lens!
 
 ---
 
