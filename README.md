@@ -9,22 +9,20 @@
 ---
 
 ### 💫 About Me:
-<div align="left">
-  
 - 🔭 **I’m currently working on** [Real-time Chat Dashboard](https://github.com/Abhinav5021)
 - 👯 **I’m looking to collaborate on** Java-based open source projects
 - 🤝 **I’m looking for help with** Mastering Spring Boot Microservices
 - 🌱 **I’m currently learning** System Architecture and UI/UX Animations
 - 💬 **Ask me about** Java, React, MySQL, or cinematic photography
 - 🎯 **Goals:** Securing a high-impact role (12-15+ LPA)
+- ✨ **Creating bugs since** 2024
 - ⚡ **Fun fact:** I love capturing sunrise and sunset views through my lens!
-</div>
 
 ---
 
 ### 🔥 Live Coding Streaks:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="95%" alt="Abhinav's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -62,7 +60,6 @@
   <a href="https://wa.me/+919359717085"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhinav-pawar-78a2a9236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/abhinavspawar2005/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:abhinavspawar2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
@@ -70,5 +67,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhinav5021&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" />
   <br />
-  <i>"A picture may be worth a thousand words, a formula is worth a thousand pictures."</i>
+  <i>"A picture may be worth a thousand words, a formula is worth a thousand pictures." - Edsger W. Dijkstra</i>
 </div>
