@@ -22,6 +22,13 @@
 
 ---
 
+### 🔥 Live Coding Streaks:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="95%" alt="Abhinav's Streak Stats" />
+</div>
+
+---
+
 ### 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake-dark.svg">
@@ -42,14 +49,10 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Activity Profile:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav5021&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav5021&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="95%" />
 </div>
 
 ---
