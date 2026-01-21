@@ -9,25 +9,18 @@
 ---
 
 ### 💫 About Me:
-🔭 I’m currently working on: Spring Boot
-
-👯 I’m looking to collaborate on: Open source web applications
-
-🤝 I’m looking for help with: Mastering advanced system architecture
-
-✨ Creating bugs since: 2024
-
-⚡ Fun fact: I love capturing sunrise and sunset views through my lens!
+- 🔭 **I’m currently working on**: Spring Boot
+- 👯 **I’m looking to collaborate on**: Open source web applications
+- 🤝 **I’m looking for help with**: Mastering advanced system architecture
+- ✨ **Creating bugs since**: 2024
+- ⚡ **Fun fact**: I love capturing sunrise and sunset views through my lens!
 
 ---
 
 ### 🔥 Live Coding Streaks:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="100%" alt="Abhinav's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="100%" alt="Abhinav's Streak Stats" />
 </div>
-
-### 🔥 Live Coding Streaks:
-![](https://nirzak-streak-stats.vercel.app/?user=abhinav5021&theme=dark&hide_border=false)<br/>
 
 ---
 
@@ -64,6 +57,7 @@
   <a href="https://wa.me/+919359717085"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhinav-pawar-78a2a9236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/abhinavspawar2005/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:abhinavspawar2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
