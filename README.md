@@ -23,7 +23,7 @@
 
 ### 🔥 Live Coding Streaks:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="100%" alt="Abhinav's Streak Stats" />
 </div>
 
 ---
