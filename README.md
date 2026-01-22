@@ -65,5 +65,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhinav5021&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" />
   <br />
-  <i>"A picture may be worth a thousand words, a formula is worth a thousand pictures." - Edsger W. Dijkstra </i>
+  <i>"A picture may be worth a thousand words, a formula is worth a thousand pictures." - Edsger W. Dijkstra</i>
 </div>
