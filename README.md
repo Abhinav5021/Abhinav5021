@@ -4,12 +4,11 @@
   <h2>💠 Founder & President of Developer Student Club 💠</h2>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&lines=Leading+the+DSC+Ecosystem;Java+Backend+Architecture;Android+Application+Development;Sunrise+%26+Sunset+Photography+📸" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&lines=Leading+the+DSC+Ecosystem;Java+Backend+Architecture;Android+Application+Development;Nature+Photography+🌿" alt="Typing SVG" />
   </p>
 
-  <p>
-    🎓 <b>B.E. Computer Science Student</b> | 📜 <b>Diploma in Computer Tech</b>
-    <br/>
+  <p align="center">
+    🎓 <b>B.E. Computer Science Student</b> | 📜 <b>Diploma in Computer Tech</b> <br/>
     📍 Dr. D. Y. Patil Technical Campus, Pune
   </p>
   
@@ -18,37 +17,47 @@
 
 ---
 
-### 🚀 Professional Snapshot
-
-- 🏗️ **DSC Leadership:** Founded and presiding over the first technical student community on campus to bridge the gap between academic theory and industry practice.
-- ☕ **Backend Mastery:** Focused on **Spring Boot**, **Hibernate**, and **Microservices** for scalable systems.
-- 📱 **Mobile Dev:** Experienced **Android Development Intern** with a history of building Java-based mobile solutions.
-- 🏆 **Innovation:** Tech-Mantra 2k24 Participant.
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🚀 Professional Glimpse
+- 🔭 **Executive Role:** Founded and presiding over the first technical community at my campus.
+- 🌿 **Passion:** I find peace in **Nature Photography**, capturing the intricate beauty of the world in every frame.
+- ☕ **Backend Focus:** Expert in building robust logic with **Spring Boot** and **Java**.
+- 🏢 **Experience:** Previously interned at **Arnav Technosys** and **Cognifyz Technologies**.
+
+---
+
+### 🛠️ My Technical Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `HTML` `CSS` `JS` `XML (Android)` `Servlet` |
+| **Backend** | `Java` `PHP` `Spring Boot` |
+| **Database** | `MySQL` `OracleDB` `Firebase` |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,redis,kafka,docker&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,androidstudio,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,spring,mysql,firebase&theme=dark" />
 </div>
 
 ---
 
-### 📈 Activity & Consistency 
-*(Fixed broken links below)*
+### 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav5021&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Vital Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav5021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -69,5 +78,5 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinav5021&color=0077b6&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Abhinav5021&color=0077b6&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
