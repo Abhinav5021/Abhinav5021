@@ -27,11 +27,13 @@
 
 ### 🛠️ My Technical Ecosystem
 <div align="center">
+  
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | `HTML` `CSS` `JS` `XML (Android)` `Servlet` |
 | **Backend** | `Java` `PHP` `Spring Boot` |
 | **Database** | `MySQL` `OracleDB` `Firebase` |
+
 </div>
 
 <div align="center">
