@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0077b6&height=200&section=header&text=Abhinav%20Pawar&fontSize=60&animation=fadeIn&fontAlignY=40" />
 
   <h3>🚀 Founder & President of DSC | Java Backend & Android Developer</h3>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/DSC-Founder%20%26%20President-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</p>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=500&lines=Founder+of+Developer+Student+Club;Building+Scalable+Java+Backends;Android+App+Innovator;Capturing+Sunrises+Through+a+Lens" alt="Typing SVG" />
   </p>
@@ -55,7 +57,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav5021&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -63,8 +65,8 @@
 ### 📊 Vital Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav5021&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav5021&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav5021&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav5021&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
 ---
