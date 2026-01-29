@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0077b6&height=200&section=header&text=Abhinav%20Pawar&fontSize=60&animation=fadeIn&fontAlignY=40" />
 
-  <h3>💻 Systems Architect in Training | Java & Android Developer</h3>
+  <h3>🚀 Founder & President of DSC | Java Backend & Android Developer</h3>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=500&lines=Building+Scalable+Java+Backends;Android+App+Innovator;DevOps+Enthusiast;Capturing+Sunrises+Through+a+Lens" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=500&lines=Founder+of+Developer+Student+Club;Building+Scalable+Java+Backends;Android+App+Innovator;Capturing+Sunrises+Through+a+Lens" alt="Typing SVG" />
   </p>
 
   <p>
@@ -15,13 +15,12 @@
 
 ---
 
-### 🚀 The Journey So Far
-
-- 🔭 **Current Focus:** Crafting a real-time Chat Ecosystem using **Spring Boot** and **WebSockets**.
-- ☁️ **Next Milestone:** Mastering **Cloud Native** development and **CI/CD pipelines**.
-- 📸 **Passion Project:** Building a digital gallery for my **Sunrise & Sunset** photography.
-- 🏢 **Experience:** - *Android Development Intern* @ Arnav Technosys (6 Weeks)
-    - *Java Development Intern* @ Cognifyz Technologies (1 Month)
+### ⚡ Quick Summary
+- 🔭 **Current Focus:** Leading **DSC** and building a real-time Chat Ecosystem.
+- ☁️ **Next Milestone:** Mastering **Cloud Native** development and **CI/CD**.
+- 📸 **Fun Fact:** I’m a sunrise/sunset photographer—symmetry exists in both code and nature.
+- 🏢 **Experience:** - *Android Development Intern* @ Arnav Technosys
+    - *Java Development Intern* @ Cognifyz Technologies
 
 ---
 
@@ -37,21 +36,31 @@
 
 ---
 
-### 📂 Featured Work
+### 📂 Leadership & Projects
 
-#### 🏗️ GDSC Institutional Platform
-*Leading the development of the official website for the Developer Student Club at my campus.*
-- **Tech:** React, Spring Boot, MySQL.
-- **Impact:** Centralizing event management and student resources for the entire tech community.
+#### 🏛️ Developer Student Club (DSC) - Founder & President
+*Founded the first dedicated developer community at our campus to bridge the gap between theory and practice.*
+- **Action:** Leading a team of student developers to build community-driven projects.
+- **Tech:** Overseeing the development of our official platform using **React** and **Spring Boot**.
 
 #### 💬 Real-Time Backend Engine
 *A high-performance chat server built for instant communication.*
-- **Key Feature:** Low-latency message delivery using STOMP protocol.
+- **Key Feature:** Low-latency message delivery using **WebSockets** and **STOMP**.
 - **Security:** Integrated JWT-based authentication for secure user sessions.
 
 ---
 
-### 📊 Engineering Stats
+### 📈 Contribution & Consistency
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav5021&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Abhinav5021&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📊 Vital Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav5021&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&hide_border=true" width="48%" />
