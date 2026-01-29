@@ -17,15 +17,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 🚀 Professional Glimpse
 - 🔭 **Executive Role:** Founded and presiding over the first technical community at my campus.
 - 🌿 **Passion:** I find peace in **Nature Photography**, capturing the intricate beauty of the world in every frame.
@@ -49,7 +40,15 @@
 
 ---
 
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhinav5021/Abhinav5021/output/github-contribution-grid-snake.svg">
+</picture>
 ### 📈 Activity Graph
+
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav5021&theme=tokyo-night&hide_border=true&area=true" width="100%" />
